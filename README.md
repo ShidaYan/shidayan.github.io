@@ -1,4 +1,4 @@
-# YAN Shida Personal Website
+# Shida Yan Personal Website
 
 This is a lightweight static personal academic website.
 
